@@ -9,7 +9,7 @@ import ViewMore from '../Pages/ViewMore'
 import AuctionPage from '../Pages/AuctionPage'
 import AboutPage from '../Pages/About'
 import ContactUsPage from '../Pages/ContactUsPage'
-
+ 
 
 
 function MainRoutes() {
