@@ -5,7 +5,7 @@ function CloseIcon() {
     <div>
       <div className="close"></div>
     </div>
-  );
+  ); 
 }
 
 export default CloseIcon;
