@@ -10,6 +10,6 @@ function ContextAllPost({children}) {
             {children}
         </AllPostContext.Provider>
     )
-}
+} 
 
 export default ContextAllPost
