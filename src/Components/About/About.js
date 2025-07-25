@@ -3,7 +3,7 @@ import "./about.css";
 function About() {
   return (
     <>
-     
+      
       <h1 className="heading">About Us</h1>
       <p className="paragraph">Welcome to our website! We are a team of passionate individuals dedicated to providing quality products/services.</p>
       <h2 className="subHeading">Our Mission</h2>
