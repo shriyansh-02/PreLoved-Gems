@@ -7,7 +7,7 @@ import Posts from '../Components/Posts/Posts';
 import Footer from '../Components/Footer/Footer';
 import { Firebase } from '../firebase/config';
 import { AuthContext } from '../contextStore/AuthContext';
-
+ 
 function Home(props) {
  const {setUser}=useContext(AuthContext)
   useEffect(()=>{
